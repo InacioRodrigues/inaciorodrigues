@@ -4,9 +4,3 @@ I'm a Software Engineer. Passionate about building scalable, secure, and well-st
 
 
 
-#### Find me elsewhere
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/in%C3%A1cio-rodrigues-ab1724212/)](https://https://www.linkedin.com/in/in%C3%A1cio-rodrigues-ab1724212/) 
-[![Gmail Badge](https://img.shields.io/badge/-inaciorodrigues395@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inaciorodrigues395@gmail.com)](mailto:inaciorodrigues395@gmail.com)
-
-
